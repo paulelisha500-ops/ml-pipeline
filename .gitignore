@@ -1,0 +1,8 @@
+data/
+models/
+__pycache__/
+*.pyc
+*.pt
+*.zip
+.env
+kaggle.json
