@@ -1,6 +1,5 @@
 .git/
 .github/
 data/
-models/
 __pycache__/
 *.pyc
